@@ -12,7 +12,8 @@ A MATLAB with signal processing toolbox user: download 'CMAP.m', 'CMAP.fig', 'CM
 
 The code has been tested with a Matlab ver 9.1 (R2016b) and Signal Processing Toolbox ver 7.3 (R2016b) in Windows 7 and in mac OS 10.13.3 (High Sierra).
 
-
-Not a MATLAB user: download 'CMAPinstaller_web.exe' and install it.
+### Not a MATLAB user
+Download 'CMAPinstaller_web.exe' and install it.
+It is a stand-alone program for CMAP analysis without MATLAB software.
 Note that 'CMAPinstaller_web.exe' will work with Windows.
 
